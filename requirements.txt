@@ -1,0 +1,6 @@
+aiohttp
+aiohttp_jinja2
+Jinja2
+peewee
+peewee_async
+psycopg2
