@@ -51,3 +51,9 @@ Pydge uses jinja2 template engine. You can read the docs on [Templates](http://j
 
 ### Usage
 Usage examples are inside the framework itself. Just follow the instructions on Examples menu.
+
+
+### Screenshots
+
+![alt text](https://github.com/jersobh/pyconizer/raw/master/1.png "Screenshot")
+![alt text](https://github.com/jersobh/pyconizer/raw/master/2.png "Screenshot")
